@@ -1,0 +1,13 @@
+h1{
+	text-align: center;
+}
+
+.input{
+	width:50%;
+	margin-left:25%;
+}
+
+.input-group-btn{
+	text-align:center;
+	padding-top:10px;
+}
